@@ -89,6 +89,8 @@ Repeat the above breakdown, but this time group schools based on a reasonable ap
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
 
+
+
 As final considerations:
 
 You must use the Pandas Library and the Jupyter Notebook.
